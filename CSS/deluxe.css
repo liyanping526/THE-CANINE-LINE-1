@@ -1,0 +1,14 @@
+.add-to-cart .btn-qty {
+  width: 52px;
+  height: 46px;
+}
+.add-to-cart .btn {
+ border-radius: 0.5; 
+}
+.snipcart-add-item{
+	background: #33C3F0;
+	color:white;
+}
+h3{
+	color:#888a8a;
+}
